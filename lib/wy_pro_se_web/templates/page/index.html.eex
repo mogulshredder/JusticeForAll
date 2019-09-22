@@ -1,0 +1,43 @@
+<div class="w3-panel w3-white">
+  <h1 class="w3-text-indigo w3-center" style="text-shadow:1px 1px 0 #444">
+  <b>Pro Se Litigant Learning Tool - Justice for All.</b></h1>
+</div>
+
+
+
+
+</div>
+<div class="phx-hero">
+<img src="/images/justiceforall.png">
+<img style="width:375px; height:197px"src="/images/Wyoming-Logo-no-Travel-and-Tourism.jpg">
+</div>
+<h5>
+  Most people cannot afford a lawyer; all people are entitled to equal access
+  to legal representation. Making law and the legal process accessible is our
+  focus.</h5>
+
+<h5>Welcome to your <i>Pro Se Legal Case Learning Tool</i>. (Here are links
+to explain more about what a Pro Se Litigant is and the
+  responsibilities that go with that role.)</h5>
+
+<h5>Is your case civil or criminal?  In order to find the right court
+for you, what are the money damages you are claiming? Do you wish to
+have a bench (judge) trial or a jury trial? There are extra fees if
+you choose to have a jury trial. <i>(Tips and tricks relating to jury
+trials in the circuit courts here.)</i>
+</h5>
+
+<table>
+  <tr>
+    <td width="40%" class="w3-container" style="border: 8px solid darkblue; background-color: lightgrey;">
+      <h4 class="w3-center"><u>Civil</u></h4>
+      <ul>
+        <li><a href="/circuit">If your Damages amount to <i>less</i> than USD $50,000 - County/Circut Law</a></li>
+        <li><a href="/district">If your Damages amount to <i>more</i> than USD $50,000 - State/District Law</a></li>
+        <li><a href="/federal">If your Damages amount to <i>USD $75,000</i> or more - Federal Law</a></li>
+    </td>
+    <td width="40%" class="w3-container" style="border: 8px solid darkblue; background-color: lightgrey;">
+      <h4 class="w3-center" >Criminal</h4>
+    </td>
+  </tr>
+</table>

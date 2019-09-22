@@ -1,0 +1,45 @@
+<u>Key words</u> that connects the current <u>problem</u> with the <u>hypothetical</u>:
+<i>"as-is"</i> contract; <i>home purchase</i>; <i>no known defects; disclosures; fraud
+and misrepresentation</i>
+
+<div class="w3-panel w3-border w3-border-red"><h4>The hypothetical that matches your story:</h4>
+<p>Mr. and Mrs. Patrick purchased a
+home through an "as-is" contract but soon found there to be a problem
+with the well that supplied water to the house. They sued the Seller,
+Mr. Richey, for breach of contract and fraud and
+misrepresentation. Since the Seller stated in the disclosures with the
+contract that there were "no known problems," with the house or the
+well, the Court found that the Seller was negligent and owed the
+Patricks damages in the amount of $47,000.</p>
+</div>
+
+<h4>What you can expect</h4>
+<p>As you go through the steps that people in the hypothetical went through to file
+and complete their lawsuit, you will learn a possible route or routes
+for how you can handle your case.</p>
+
+By using this learning tool you can earn tokenized credit toward your
+filing and/or court fees.  Here is a list of tiems you can earn credit
+for:
+
+<ul>
+  <li>Discounted filing and service fees</li>
+  <li>Credit toward any attorney fees</li>
+  <li>Credit towatd mediators</li>
+</ul>
+
+
+
+<h4>At this point:</h4>
+<p>Now that you have read about filing a lawsuit
+as a Pro Se Litigant, do you wish to proceed, or do you want to
+contact a local lawyer to discuss possible legal representation for
+your case?</p>
+<div class="w3-panel w3-center">
+<h4>You can now begin your Pro Se learning process here!</h4>
+<form action="/pro_se">
+  <input type="radio" id="lawyer" name="choice" required> Local Lawyers
+  <input type="radio" id="pro se" name="choice" required> Pro Se
+  <br><br><input type="submit">
+</div>
+</form>
